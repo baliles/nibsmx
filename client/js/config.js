@@ -2,7 +2,7 @@ angular.module('nibs.config', [])
 
     .constant('SERVER_URL', null)
 
-    .constant('FB_APP_ID','1035763699770712')
+    .constant('FB_APP_ID','1039493962731019')
 
     .constant('STATUS_LABELS', [
         'Forastero',
